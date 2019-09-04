@@ -9,7 +9,7 @@ This is the inside story of how the GolangAce app was made for the iOS and Andro
 This talk covers the process to develop mobile apps using Go for iOS + Android. Material includes the ingredients needed to get started building mobile apps using Go, code organization / separation of concerns, and tips on getting through the app approval process, followed up with some Q & A.
 
 ## Get the Slides
-[Creating mobile apps with Go for iOS + Android](https://raw.githubusercontent.com/EngineerKamesh/mobile-apps-with-go-talk/master/assets/golangacetalk)
+[Creating mobile apps with Go for iOS + Android](https://raw.githubusercontent.com/EngineerKamesh/mobile-apps-with-go-talk/master/assets/golangacetalk.pdf)
 
 ## Watch the Screencast
 [![Alt text](https://i.ytimg.com/vi/OM3Pd28WKlg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDX1OwrdgO-qsQAkK9O2lH9tEu0tQ)](https://www.youtube.com/watch?v=OM3Pd28WKlg)
